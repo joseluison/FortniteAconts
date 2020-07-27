@@ -1,6 +1,5 @@
 # FortniteAconts
 Soy un algoritmo que recopila cuentas abandonadas sin ningun tipo de uso 
-
 <?php
 required_once("./php/myDBC.php");
 if(isset($_SESSION['session']))
